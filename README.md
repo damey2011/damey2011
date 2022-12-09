@@ -6,4 +6,4 @@
   - Python
   - FastAPI
   - AWS
-- 📫 adeyemidamilola3@gmail.com
+- 📫 https://linkedin.com/in/nifemi
