@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Damilola Adeyemi
+- 👀 I’m interested in building scalable, innovative applications using various technologies
+  - NodeJS
+  - Typescript
+  - Kafka
+  - Python
+  - FastAPI
+  - AWS
+- 📫 adeyemidamilola3@gmail.com
